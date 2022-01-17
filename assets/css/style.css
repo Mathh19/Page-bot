@@ -29,6 +29,17 @@ body {
 .cabecalho-menu {
     display: flex;
     gap: 32px;
+    align-items: center;
+}
+
+.icone{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.icone-discord {
+    height: 45px;
 }
 
 .cabecalho-menu-item {
